@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce70e123-b05d-429c-9ad0-65677b640ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SushiByAvans/src/main/java/com/example/SushiByAvans/models/User.java" afterDir="false" />
+    <list default="true" id="ce70e123-b05d-429c-9ad0-65677b640ef9" name="Changes" comment="Initial commit and addes user model">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +70,17 @@
       <option name="presentableId" value="Default" />
       <updated>1668700331371</updated>
       <workItem from="1668700333155" duration="2369000" />
-      <workItem from="1669646070447" duration="2662000" />
+      <workItem from="1669646070447" duration="7510000" />
+      <workItem from="1670504207715" duration="73000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit and addes user model">
+      <created>1669650034131</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669650034131</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +97,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit and addes user model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit and addes user model" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

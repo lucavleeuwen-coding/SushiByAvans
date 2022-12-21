@@ -10,4 +10,5 @@ public class SushiByAvansApplication {
 		SpringApplication.run(SushiByAvansApplication.class, args);
 	}
 
+
 }
